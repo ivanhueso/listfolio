@@ -1,2 +1,2 @@
-# listfolio
+# ListFolio
 Listfolio - Native App for Android
